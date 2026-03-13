@@ -60,7 +60,7 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/your-repo/hackerofh
 ### Manual
 
 ```bash
-git clone https://github.com/your-repo/hackerofhell_ultra.git
+git clone https://github.com/thehellrider978/HACKEROFHELL-ULTRA-v6.0-Lite.git
 cd hackerofhell_ultra
 sudo bash install_ultra.sh
 ```
